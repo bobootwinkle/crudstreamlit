@@ -1,7 +1,6 @@
 import streamlit as st
 import pymysql
 import connectmysql as con
-from tabulate import tabulate
 
 
 st.title("CRUD MySQL App with Database")
